@@ -1,0 +1,6 @@
+[submodule "babelbeats_api"]
+	path = babelbeats_api
+	url = ./babelbeats_api
+[submodule "babelbeats_desktop"]
+	path = babelbeats_desktop
+	url = ./babelbeats_desktop
