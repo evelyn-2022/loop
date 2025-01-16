@@ -1,6 +1,6 @@
 [submodule "babelbeats_api"]
 	path = babelbeats_api
-	url = ./babelbeats_api
+	url = https://github.com/evelyn-2022/babelbeats_api.git
 [submodule "babelbeats_desktop"]
 	path = babelbeats_desktop
-	url = ./babelbeats_desktop
+	url = https://github.com/evelyn-2022/babelbeats_desktop.git
