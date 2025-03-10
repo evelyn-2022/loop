@@ -1,6 +1,6 @@
-# BabelBeats
+# Loop
 
-After six months, I’ve decided to rebuild this project from scratch to improve my skills. Older version can be accessed [here](https://github.com/evelyn-2022/babelbeats-archive) (it was far from finished 😅)
+After six months, I’ve decided to rebuild this project. Older version can be found [here](https://github.com/evelyn-2022/babelbeats-archive) (it was far from finished 😅)
 
 ## Current Status
 
