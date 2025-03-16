@@ -1,6 +1,12 @@
 [submodule "loop-api"]
 	path = loop-api
 	url = https://github.com/evelyn-2022/loop-api.git
-[submodule "loop-app"]
-	path = loop-app
-	url = https://github.com/evelyn-2022/loop-app.git
+[submodule "loop-mobile"]
+	path = loop-mobile
+	url = https://github.com/evelyn-2022/loop-mobile.git
+[submodule "loop-web"]
+	path = loop-web
+	url = https://github.com/evelyn-2022/loop-web.git
+[submodule "loop-desktop"]
+	path = loop-desktop
+	url = https://github.com/evelyn-2022/loop-desktop.git
